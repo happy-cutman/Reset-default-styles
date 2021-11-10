@@ -1,5 +1,7 @@
 # Reset-default-styles
 
+```CSS
+
 /* Указываем box sizing */
 *,
 *::before,
@@ -68,3 +70,4 @@ textarea,
 select {
   font: inherit;
 }
+```
